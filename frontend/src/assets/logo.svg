@@ -1,0 +1,15 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="40" height="40" rx="8" fill="#1976D2"/>
+  
+  <!-- Data Nodes -->
+  <circle cx="20" cy="12" r="4" fill="white"/>
+  <circle cx="12" cy="28" r="4" fill="white"/>
+  <circle cx="28" cy="28" r="4" fill="white"/>
+  
+  <!-- Connecting Lines -->
+  <path d="M20 16L12 24M20 16L28 24" 
+        stroke="white" 
+        stroke-width="2" 
+        stroke-linecap="round"/>
+</svg> 
